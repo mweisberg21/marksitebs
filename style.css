@@ -1,0 +1,45 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+
+.btn-primary {background: hsla(329, 77%, 54%, 1);
+
+    background: linear-gradient(180deg, hsla(329, 77%, 54%, 1) 0%, hsla(229, 78%, 44%, 1) 100%);
+    
+    background: -moz-linear-gradient(180deg, hsla(329, 77%, 54%, 1) 0%, hsla(229, 78%, 44%, 1) 100%);
+    
+    background: -webkit-linear-gradient(180deg, hsla(329, 77%, 54%, 1) 0%, hsla(229, 78%, 44%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#e42d8b", endColorstr="#1939c9", GradientType=1 );
+border: 0px;}
+
+.btn-primary:hover {background-color: #7a5ac4;
+     }
+
+/* HEADER Nav*/
+.navbar {
+    background-color: white !important;
+}
+
+.collapse .navbar-collapse .d-lg-flex>a {font-weight: bolder !important;}
+
+/* Hero section */
+.hero-image {border-radius: 6px;
+    filter: drop-shadow(5px 5px 10px #000000);}
+
+
+/*Feature Cards */
+
+#custom-cards>h2 {font-weight: bolder;
+}
+#card-description {text-shadow: 1px 1px 2px black;}
+
+.View-Portfolio-Button {display: flex;
+justify-content: center;}
+
+/* Portfolio Page */
+
+/* Contact Page */ 
+
+
+/* Footer */
